@@ -1,4 +1,4 @@
-# Hotel-booking-systems
+# HOTEL BOOKING AND MANAGEMENT SYSTEM
 
 ## INTRODUCTION
 
