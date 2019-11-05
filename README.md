@@ -92,3 +92,7 @@ There are many bugs from IDE which I encountered personally while I was developi
 ## CONTRIBUTING
 When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with me before making a change.
 
+## DOUBTS AND QUERIES
+ Feel free to ask any doubts in any part of the project or SQL queries or for the installation part.
+ Even if you encounter some other bugs not mentioned above, just mail me the issue and I'll try to resolve it to my best.
+ *contact me : email : pashwith25@gmail.com*
